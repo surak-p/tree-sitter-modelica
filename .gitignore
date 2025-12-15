@@ -13,7 +13,7 @@ Package.swift
 prebuilds/
 pyproject.toml
 setup.py
-src/
+# src/ - keeping generated files for Zed compatibility
 target/
 
 # Build artifacts
